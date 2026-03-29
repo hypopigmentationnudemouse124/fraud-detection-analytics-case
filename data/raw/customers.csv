@@ -1,0 +1,1001 @@
+customer_id,customer_name,age,account_age_days,home_country,email_domain,is_vip
+1,Alexia Barbosa,58,457,BR,outlook.com,0
+2,Srta. Lorena Macedo,32,572,US,gmail.com,1
+3,Maria Clara Novais,20,123,BR,hotmail.com,0
+4,Miguel Leão,53,815,US,yahoo.com,0
+5,Sr. Gael Gonçalves,46,2414,BR,gmail.com,0
+6,Sra. Emilly Pereira,62,1732,BR,hotmail.com,0
+7,Maria Luísa Cavalcanti,66,1379,BR,yahoo.com,0
+8,Maria Vitória Moraes,40,3472,BR,outlook.com,0
+9,Zoe Sousa,64,1882,BR,yahoo.com,0
+10,Carlos Eduardo Costa,53,1201,US,outlook.com,0
+11,Arthur Miguel Caldeira,63,285,BR,hotmail.com,0
+12,Sr. Bruno da Luz,23,3504,BR,gmail.com,1
+13,Raquel Caldeira,35,1858,BR,outlook.com,0
+14,Luiz Felipe Siqueira,41,1456,BR,outlook.com,0
+15,Sr. Leonardo Sales,56,2601,BR,hotmail.com,0
+16,Rafaela Lopes,47,1555,BR,hotmail.com,0
+17,Théo Cavalcanti,67,3179,BR,gmail.com,0
+18,Benjamin da Rosa,43,1097,BR,outlook.com,0
+19,Vinícius da Luz,59,2045,BR,yahoo.com,0
+20,Sr. Nathan Oliveira,34,572,BR,outlook.com,1
+21,Sr. Brayan Monteiro,55,1636,BR,hotmail.com,1
+22,Ana Carolina Araújo,23,3096,BR,gmail.com,0
+23,Maria Sophia Cardoso,58,656,US,yahoo.com,0
+24,Catarina da Rocha,42,1564,BR,yahoo.com,0
+25,Benício Albuquerque,53,3526,AR,gmail.com,0
+26,Sr. Pedro Miguel Guerra,67,2626,BR,outlook.com,1
+27,Ravi Lucca Monteiro,28,1859,BR,outlook.com,0
+28,Dra. Maitê Alves,50,436,AR,outlook.com,0
+29,Maria Vitória Vasconcelos,27,1532,US,gmail.com,0
+30,Matteo Pires,49,80,BR,outlook.com,0
+31,Natália Pinto,33,238,BR,gmail.com,0
+32,Rafael Teixeira,64,1991,US,hotmail.com,0
+33,Eduardo Mendes,60,1947,AR,hotmail.com,0
+34,Mateus Lima,51,3574,BR,hotmail.com,0
+35,Eloah Peixoto,63,1277,BR,outlook.com,1
+36,Dr. Diogo Rodrigues,51,1850,BR,hotmail.com,0
+37,Yan Borges,39,87,BR,hotmail.com,0
+38,Vitor Hugo Novais,18,291,US,gmail.com,0
+39,Ravi Almeida,22,129,AR,gmail.com,0
+40,Maria Helena Campos,35,2741,BR,hotmail.com,1
+41,Sophia Mendes,33,3214,BR,yahoo.com,0
+42,Arthur Gabriel Leão,24,398,BR,outlook.com,1
+43,Juan da Cunha,44,1913,AR,gmail.com,0
+44,Davi Araújo,21,1650,US,gmail.com,0
+45,Clarice Sousa,30,780,BR,hotmail.com,1
+46,Ian Macedo,29,1141,BR,gmail.com,1
+47,Ana Sophia Rezende,69,3529,AR,gmail.com,0
+48,Cecília da Paz,59,2215,AR,gmail.com,0
+49,Ísis Nascimento,28,1665,BR,hotmail.com,1
+50,Kaique Sampaio,21,675,BR,yahoo.com,0
+51,Lorenzo Almeida,68,3216,BR,yahoo.com,1
+52,Maria Porto,27,778,BR,gmail.com,0
+53,Ana Lívia Camargo,65,1285,BR,yahoo.com,0
+54,João Felipe Moura,21,2081,BR,hotmail.com,0
+55,Sra. Carolina Vasconcelos,56,279,US,hotmail.com,1
+56,Sr. Apollo Melo,25,3647,BR,gmail.com,0
+57,Vitor Hugo Almeida,44,2693,BR,outlook.com,0
+58,Emilly Carvalho,31,2744,US,hotmail.com,0
+59,Olívia Pastor,43,537,US,outlook.com,1
+60,José Gomes,38,3080,AR,gmail.com,1
+61,Dr. Luiz Gustavo Dias,57,2307,AR,gmail.com,0
+62,Matteo Ramos,50,1087,BR,outlook.com,0
+63,Maria Sophia Rodrigues,33,1514,BR,yahoo.com,0
+64,Ana Luiza Azevedo,57,3306,BR,gmail.com,0
+65,Sr. Davi Luiz da Luz,60,425,AR,hotmail.com,0
+66,Bernardo Borges,25,3645,BR,hotmail.com,0
+67,Srta. Ana Clara Garcia,36,2478,BR,outlook.com,0
+68,Kaique da Cunha,61,2598,AR,yahoo.com,0
+69,Rodrigo Pacheco,21,379,BR,outlook.com,0
+70,Srta. Ana Beatriz Monteiro,18,1367,US,outlook.com,0
+71,Stephany Ramos,65,1810,BR,yahoo.com,0
+72,Anthony Gabriel Silveira,25,309,AR,hotmail.com,0
+73,Maria Sophia Nogueira,41,2386,BR,yahoo.com,0
+74,Gabriel Siqueira,20,1263,BR,gmail.com,0
+75,Arthur Gabriel Correia,31,2794,BR,gmail.com,0
+76,Dr. Arthur Miguel Moraes,67,2294,AR,yahoo.com,0
+77,Cecilia Garcia,33,3542,BR,hotmail.com,1
+78,Sr. Cauê Rocha,19,735,US,outlook.com,1
+79,Isadora Nunes,69,2744,AR,hotmail.com,0
+80,Brenda Santos,28,3226,US,yahoo.com,0
+81,Nina Andrade,48,912,BR,yahoo.com,0
+82,Davi Miguel Gonçalves,37,3361,US,hotmail.com,0
+83,João Gabriel Guerra,19,2704,BR,outlook.com,0
+84,Sophie Costa,22,3168,BR,yahoo.com,0
+85,Maria Alice Macedo,19,473,AR,outlook.com,0
+86,Dr. Guilherme Castro,55,1088,BR,yahoo.com,0
+87,Larissa Farias,64,3222,BR,gmail.com,1
+88,Isabel Pereira,54,779,BR,yahoo.com,0
+89,Esther Rios,51,3304,BR,hotmail.com,0
+90,Lavínia Carvalho,45,287,AR,outlook.com,0
+91,Emanuella Casa Grande,60,3474,BR,outlook.com,0
+92,Júlia Melo,60,1673,BR,outlook.com,0
+93,Breno Monteiro,30,1723,BR,yahoo.com,0
+94,Erick Siqueira,57,2332,BR,gmail.com,0
+95,Maria Vitória da Rosa,36,861,BR,outlook.com,1
+96,Alice Peixoto,46,1812,US,yahoo.com,0
+97,Dra. Hellena Cassiano,60,348,BR,outlook.com,0
+98,Mirella Cassiano,70,3077,BR,outlook.com,0
+99,Thomas Porto,69,816,BR,gmail.com,0
+100,Emilly Mendonça,48,2504,AR,gmail.com,1
+101,Dr. Anthony Gabriel Peixoto,44,3630,BR,hotmail.com,1
+102,Maria Cecília Garcia,49,1637,BR,gmail.com,0
+103,Miguel Machado,67,1742,BR,yahoo.com,0
+104,Srta. Ana Luiza Pereira,53,1021,AR,gmail.com,1
+105,Manuella Lopes,26,3283,BR,outlook.com,1
+106,Isadora Alves,57,3339,US,yahoo.com,1
+107,Henry da Luz,28,3047,AR,yahoo.com,0
+108,João Novaes,66,1013,AR,outlook.com,1
+109,Elisa da Paz,58,980,BR,gmail.com,0
+110,Ana Vitória Silva,33,1113,BR,gmail.com,0
+111,Sophie Campos,27,948,BR,hotmail.com,0
+112,Dr. Davi da Rocha,22,1700,BR,yahoo.com,1
+113,Ana Lívia Lima,21,848,US,yahoo.com,0
+114,Benjamin Barros,66,2359,BR,gmail.com,0
+115,Heitor Vargas,37,3087,BR,yahoo.com,0
+116,Lívia Fonseca,49,899,BR,yahoo.com,0
+117,Elisa Teixeira,42,1377,US,yahoo.com,0
+118,Sra. Mariane da Mota,47,523,AR,gmail.com,1
+119,Kevin Cassiano,55,2312,BR,gmail.com,1
+120,Dra. Ágatha Oliveira,26,3551,BR,gmail.com,0
+121,João Felipe Oliveira,42,1341,BR,outlook.com,0
+122,Srta. Pietra Dias,66,3604,BR,yahoo.com,0
+123,Théo Nogueira,23,1927,BR,gmail.com,0
+124,Ana Cecília Rocha,32,2663,BR,gmail.com,0
+125,Bruna Abreu,33,817,AR,hotmail.com,0
+126,Henry Gabriel Ferreira,26,1940,US,hotmail.com,1
+127,Ana Júlia Sales,62,1050,US,hotmail.com,0
+128,Camila Ferreira,67,3356,BR,outlook.com,0
+129,Alice Cunha,55,106,AR,yahoo.com,1
+130,Theo Nogueira,63,813,BR,hotmail.com,0
+131,Vicente Marques,62,3165,BR,gmail.com,0
+132,Maria Julia Freitas,40,2183,BR,outlook.com,0
+133,Bruna Pastor,50,2653,BR,yahoo.com,1
+134,Jade Nunes,24,1776,AR,yahoo.com,0
+135,Antony Costela,45,722,US,outlook.com,1
+136,Maria Eduarda da Luz,47,1785,US,outlook.com,0
+137,Elisa Andrade,33,3403,AR,outlook.com,1
+138,Manuella Mendes,33,3074,BR,yahoo.com,0
+139,Nicole Campos,19,2025,AR,hotmail.com,1
+140,Marcelo Santos,31,1454,US,outlook.com,0
+141,Gael Henrique Costela,56,2873,AR,gmail.com,0
+142,José Miguel Pacheco,23,989,US,yahoo.com,0
+143,Allana da Cruz,62,1951,BR,yahoo.com,1
+144,Augusto Pires,68,71,BR,hotmail.com,1
+145,Sr. Dante Santos,62,997,BR,outlook.com,1
+146,Raul Campos,53,2175,BR,outlook.com,0
+147,Laís Brito,62,1859,BR,outlook.com,0
+148,Maria Sophia Rocha,25,2955,BR,gmail.com,0
+149,João Pedro Vasconcelos,30,887,US,outlook.com,0
+150,Dr. Benjamim Camargo,24,3411,BR,hotmail.com,0
+151,Sr. André Silva,29,1239,BR,hotmail.com,0
+152,Clara Pires,20,224,BR,hotmail.com,1
+153,Sra. Sara Andrade,24,3575,BR,outlook.com,1
+154,Mirella Borges,48,1805,BR,gmail.com,0
+155,Kaique Aparecida,48,468,US,yahoo.com,1
+156,Gael da Costa,22,2364,BR,gmail.com,0
+157,Rodrigo Mendes,27,3323,BR,outlook.com,0
+158,Paulo Machado,33,486,BR,yahoo.com,0
+159,Ana Julia Ramos,67,2141,BR,yahoo.com,0
+160,Sra. Agatha Ribeiro,55,1757,BR,gmail.com,0
+161,Clarice da Mota,66,852,BR,outlook.com,0
+162,Bernardo Barros,28,983,BR,gmail.com,0
+163,Bruno Monteiro,18,1674,BR,yahoo.com,0
+164,Alexia Abreu,20,949,BR,outlook.com,1
+165,Diogo Sousa,22,2816,BR,outlook.com,0
+166,Evelyn Araújo,45,471,BR,hotmail.com,0
+167,Vinícius Monteiro,70,583,BR,hotmail.com,0
+168,Luna Abreu,56,3068,US,outlook.com,1
+169,Stephany Duarte,25,1920,US,yahoo.com,0
+170,Rafaela Ribeiro,50,2212,BR,gmail.com,0
+171,Vitória Vasconcelos,45,3009,BR,outlook.com,0
+172,Vinícius Novaes,23,938,AR,gmail.com,0
+173,Paulo Moraes,54,165,US,hotmail.com,1
+174,Sra. Maya Moraes,51,2669,BR,outlook.com,0
+175,Cecilia Sales,55,1786,BR,yahoo.com,0
+176,Maya Araújo,48,1426,BR,outlook.com,0
+177,Matteo Rodrigues,28,1351,BR,yahoo.com,0
+178,João Almeida,60,1641,US,gmail.com,1
+179,Manuela Azevedo,23,1289,BR,gmail.com,1
+180,Eloá Sampaio,50,3379,AR,yahoo.com,1
+181,Maria Eduarda da Paz,21,769,BR,yahoo.com,1
+182,Lavínia das Neves,66,212,BR,hotmail.com,0
+183,Enzo Sales,46,3608,US,gmail.com,0
+184,Sophia Cavalcante,58,2494,US,hotmail.com,0
+185,Agatha Moraes,53,57,BR,gmail.com,0
+186,Paulo Moura,25,1891,AR,hotmail.com,1
+187,Théo Azevedo,63,1196,BR,outlook.com,1
+188,Nicole Abreu,48,1935,BR,hotmail.com,1
+189,Sabrina da Cunha,30,2456,BR,hotmail.com,0
+190,Noah Vargas,35,3165,US,yahoo.com,0
+191,Bruno Brito,68,2080,BR,gmail.com,0
+192,Sra. Brenda Teixeira,64,1223,AR,yahoo.com,0
+193,Anthony Gabriel Novaes,46,2207,BR,outlook.com,1
+194,Juan Monteiro,47,1319,AR,hotmail.com,1
+195,Alícia Camargo,32,3507,US,gmail.com,0
+196,Alice Nogueira,65,1938,US,yahoo.com,1
+197,Sra. Ester da Mota,60,3246,US,hotmail.com,1
+198,Agatha Montenegro,20,518,BR,outlook.com,0
+199,Dra. Lunna da Cruz,46,409,BR,yahoo.com,0
+200,Cecília Moreira,64,591,BR,hotmail.com,0
+201,Matteo Ferreira,48,3202,AR,outlook.com,1
+202,Theo Silveira,59,329,AR,yahoo.com,0
+203,Maria Laura Rezende,58,2944,AR,yahoo.com,0
+204,Apollo Ferreira,57,281,BR,outlook.com,0
+205,Luigi Alves,65,371,BR,gmail.com,0
+206,Yuri Mendes,46,682,US,gmail.com,0
+207,Thomas Fonseca,38,3262,BR,outlook.com,0
+208,João Gabriel Aparecida,45,597,BR,yahoo.com,0
+209,Nathan Caldeira,28,718,BR,yahoo.com,0
+210,Murilo Vasconcelos,49,2389,BR,yahoo.com,0
+211,Maria Cecília Ferreira,47,1046,US,yahoo.com,0
+212,Sr. Joaquim Casa Grande,61,2239,BR,yahoo.com,0
+213,Dr. Joaquim Sousa,55,1226,BR,yahoo.com,0
+214,João Felipe da Mota,47,3463,BR,yahoo.com,1
+215,Davi Silva,24,972,BR,outlook.com,0
+216,Sr. Diogo Barbosa,62,1210,BR,yahoo.com,0
+217,João Guilherme da Mata,18,2319,AR,gmail.com,1
+218,Bárbara Moreira,36,3178,US,outlook.com,0
+219,Srta. Luana Rodrigues,58,779,BR,hotmail.com,0
+220,Ana Liz Guerra,58,2648,BR,yahoo.com,0
+221,Igor Leão,55,1495,US,gmail.com,0
+222,Samuel Farias,38,3062,BR,hotmail.com,0
+223,Isabela Cavalcanti,68,2210,AR,outlook.com,0
+224,Anthony Vasconcelos,28,1053,AR,yahoo.com,0
+225,Srta. Stella Vasconcelos,65,3566,BR,gmail.com,1
+226,Dr. Gael Henrique Vargas,22,577,US,hotmail.com,1
+227,Luiz Otávio Correia,69,2283,BR,yahoo.com,0
+228,Oliver Souza,34,2198,BR,outlook.com,0
+229,Maria Júlia Cavalcante,55,1561,US,outlook.com,0
+230,Ana Júlia da Mota,61,958,BR,outlook.com,0
+231,Vitor Gabriel Guerra,59,259,BR,yahoo.com,0
+232,Ágatha Araújo,59,1673,BR,gmail.com,0
+233,Luísa Ferreira,37,2018,BR,hotmail.com,0
+234,Valentina Cardoso,42,1859,BR,yahoo.com,0
+235,Sarah Pimenta,44,2683,BR,yahoo.com,1
+236,Benjamim Cassiano,35,135,US,hotmail.com,1
+237,Cecilia da Luz,46,968,AR,gmail.com,0
+238,Elisa Viana,52,2642,BR,yahoo.com,0
+239,Diego Carvalho,30,501,AR,yahoo.com,0
+240,Dr. Valentim Gomes,60,869,BR,gmail.com,0
+241,Nathan Melo,68,1367,BR,hotmail.com,0
+242,Bruna Costa,22,3399,US,hotmail.com,0
+243,Guilherme Mendonça,70,3563,BR,hotmail.com,0
+244,Dr. Rafael Sales,35,3517,AR,hotmail.com,0
+245,José Sá,69,715,BR,gmail.com,0
+246,Apollo Abreu,18,1468,US,hotmail.com,0
+247,Maria Cecília Azevedo,19,714,BR,hotmail.com,1
+248,Ravi Pimenta,51,466,US,yahoo.com,1
+249,Ryan Campos,67,1483,BR,gmail.com,1
+250,Sr. Pedro Lucas Mendonça,50,908,AR,gmail.com,0
+251,Sr. Theo Azevedo,47,2636,AR,gmail.com,1
+252,Bruna Moraes,43,1747,US,yahoo.com,1
+253,Samuel Dias,22,331,BR,hotmail.com,0
+254,Fernanda Silveira,26,1127,BR,outlook.com,1
+255,Samuel Cavalcante,56,2174,BR,yahoo.com,0
+256,Isabel Novaes,68,2875,BR,hotmail.com,1
+257,Davi Luiz Teixeira,46,3638,BR,outlook.com,1
+258,Liz Pereira,43,1704,US,outlook.com,1
+259,Srta. Maya Castro,38,2725,BR,hotmail.com,1
+260,Esther Santos,22,374,US,gmail.com,1
+261,Antônio Vasconcelos,24,3050,US,hotmail.com,0
+262,Marina Moraes,55,2301,BR,gmail.com,1
+263,Rael Carvalho,40,3579,BR,yahoo.com,0
+264,Manuella Porto,36,2460,BR,gmail.com,0
+265,Davi Miguel Correia,27,2690,BR,gmail.com,0
+266,André Cardoso,53,1506,BR,outlook.com,0
+267,Fernando Dias,69,1758,AR,gmail.com,0
+268,Francisco Lopes,19,739,BR,outlook.com,0
+269,Luiz Felipe Freitas,40,26,BR,hotmail.com,1
+270,Caroline Porto,22,582,US,gmail.com,0
+271,Srta. Maria Flor Aragão,65,2173,BR,yahoo.com,1
+272,Thomas Cardoso,39,645,BR,outlook.com,0
+273,Davi Lucas Costela,21,638,BR,gmail.com,0
+274,Murilo Melo,35,1815,BR,yahoo.com,1
+275,Sra. Ana Carolina Abreu,44,1119,BR,gmail.com,0
+276,Vitor Lopes,45,455,BR,yahoo.com,0
+277,Ana Lívia Martins,20,904,BR,gmail.com,0
+278,Davi Correia,31,1235,AR,hotmail.com,0
+279,Sophie Rios,36,1344,BR,yahoo.com,1
+280,Ana Luiza Lima,29,530,BR,hotmail.com,0
+281,Dra. Camila Ribeiro,22,1627,AR,gmail.com,1
+282,Davi da Paz,19,1884,AR,outlook.com,1
+283,Oliver Rocha,54,1657,US,yahoo.com,0
+284,Ryan Martins,25,1660,BR,outlook.com,0
+285,Dra. Pietra Moreira,69,2532,BR,outlook.com,0
+286,Heloisa da Mata,45,3460,BR,yahoo.com,1
+287,Antony Carvalho,51,323,BR,outlook.com,0
+288,Caroline da Conceição,32,1365,US,gmail.com,0
+289,Arthur Miguel Lima,51,2089,BR,outlook.com,0
+290,Sara Teixeira,64,3355,BR,hotmail.com,0
+291,Henry Gabriel Barros,24,600,BR,hotmail.com,0
+292,Maria Cecília Pastor,66,3110,BR,hotmail.com,1
+293,Emanuelly Vasconcelos,47,3091,BR,yahoo.com,0
+294,Zoe Moreira,58,1295,BR,gmail.com,1
+295,Davi Miguel Vargas,46,2587,BR,outlook.com,0
+296,André Cavalcante,40,2079,BR,yahoo.com,1
+297,Dra. Ana Porto,20,234,BR,outlook.com,0
+298,Maria Luísa Camargo,59,3540,AR,gmail.com,1
+299,Dom Peixoto,47,2378,BR,gmail.com,1
+300,Vitor Ferreira,69,2342,BR,outlook.com,1
+301,Dra. Mariane Cavalcante,50,618,AR,yahoo.com,0
+302,Mirella Lopes,69,3430,BR,gmail.com,0
+303,Oliver Cavalcanti,20,1015,US,yahoo.com,0
+304,Maitê Montenegro,41,1528,AR,yahoo.com,1
+305,Ágatha Casa Grande,67,1386,US,gmail.com,0
+306,Gabrielly da Luz,22,1351,BR,yahoo.com,0
+307,Elisa Novaes,34,2965,AR,hotmail.com,0
+308,Maysa Abreu,23,2387,BR,outlook.com,0
+309,Daniel Cardoso,59,2861,BR,hotmail.com,0
+310,Vicente Cassiano,37,2290,BR,outlook.com,0
+311,Emanuella Vasconcelos,60,2879,US,gmail.com,1
+312,Sra. Maria Sophia Barbosa,50,1483,BR,outlook.com,0
+313,Larissa Barros,31,1400,AR,yahoo.com,0
+314,Jade Fogaça,32,564,BR,outlook.com,0
+315,Isaac Sales,50,3158,BR,gmail.com,0
+316,Vitor Gabriel Martins,67,2532,BR,yahoo.com,0
+317,Catarina Costa,28,741,US,hotmail.com,1
+318,Gabriel Barros,20,1683,BR,hotmail.com,1
+319,Yasmin Cavalcante,57,1168,US,yahoo.com,0
+320,Lorenzo Macedo,52,980,BR,yahoo.com,0
+321,Breno Duarte,41,2779,AR,yahoo.com,1
+322,Bento Sales,67,1155,US,yahoo.com,0
+323,Maysa Andrade,70,818,US,hotmail.com,0
+324,Caroline Santos,21,2627,BR,outlook.com,0
+325,Emilly Pereira,63,3465,BR,gmail.com,0
+326,Francisco Cirino,23,3126,BR,yahoo.com,0
+327,João Guilherme Castro,45,376,AR,hotmail.com,1
+328,Sr. Joaquim Sá,40,110,BR,yahoo.com,0
+329,Gabrielly Pastor,33,1582,AR,outlook.com,0
+330,Ravy Costa,19,1306,AR,outlook.com,0
+331,Gustavo Henrique Castro,26,157,BR,yahoo.com,0
+332,Sra. Alice Barros,66,2890,BR,gmail.com,0
+333,Catarina Araújo,19,1049,BR,hotmail.com,1
+334,Luiz Otávio Moraes,25,3180,BR,outlook.com,0
+335,Sr. Igor Costa,21,977,BR,yahoo.com,0
+336,Hadassa Castro,25,3428,AR,gmail.com,0
+337,Dr. Luiz Miguel da Luz,63,589,BR,gmail.com,0
+338,Ana Laura Aragão,33,2338,BR,gmail.com,0
+339,Levi Montenegro,22,2155,BR,gmail.com,1
+340,Srta. Maria Eduarda Mendes,48,179,BR,outlook.com,0
+341,Eloá Oliveira,65,67,BR,gmail.com,0
+342,João Vitor Barbosa,33,3003,BR,gmail.com,0
+343,Marcos Vinicius Rezende,26,182,BR,outlook.com,0
+344,Enzo Nunes,67,2805,BR,yahoo.com,0
+345,Ana Sophia Sousa,69,553,BR,yahoo.com,0
+346,Maitê Rezende,36,826,BR,hotmail.com,0
+347,Maria Eduarda Camargo,38,1271,BR,yahoo.com,0
+348,Thales Alves,20,3086,BR,outlook.com,0
+349,Mathias Montenegro,67,196,AR,outlook.com,0
+350,Bento Jesus,25,3275,BR,yahoo.com,1
+351,Sophia Andrade,42,1389,AR,yahoo.com,1
+352,Maria Eduarda Teixeira,41,3266,BR,gmail.com,1
+353,Aurora Moreira,23,1764,BR,hotmail.com,0
+354,Srta. Cecilia da Conceição,38,421,BR,outlook.com,0
+355,Luara Cavalcanti,46,2469,US,hotmail.com,1
+356,Helena Teixeira,40,1832,BR,outlook.com,1
+357,Pietro Nunes,35,2620,AR,gmail.com,0
+358,Ryan Pastor,60,2612,BR,hotmail.com,0
+359,Apollo Borges,27,3477,BR,yahoo.com,0
+360,Maria Julia Ferreira,26,276,BR,outlook.com,0
+361,Manuella Novais,42,2324,BR,hotmail.com,1
+362,Ravi Lucca Pinto,41,1524,BR,gmail.com,0
+363,Bianca Mendonça,51,1504,BR,outlook.com,0
+364,Maria Eduarda Pinto,25,107,US,yahoo.com,1
+365,Mateus Silva,53,483,BR,outlook.com,1
+366,Vitor Hugo Monteiro,31,2507,BR,yahoo.com,0
+367,Mariana da Mata,25,556,AR,yahoo.com,0
+368,Henry Gabriel Andrade,63,1824,AR,outlook.com,0
+369,Lavínia da Cunha,63,266,BR,outlook.com,0
+370,Bruno Silva,28,2916,US,hotmail.com,0
+371,Mariah Souza,50,919,BR,hotmail.com,0
+372,Srta. Helena Moreira,33,3238,BR,outlook.com,0
+373,Isabella Martins,47,3292,AR,hotmail.com,0
+374,Brayan Peixoto,22,1267,BR,yahoo.com,1
+375,Alana Rios,67,1678,US,gmail.com,0
+376,Sra. Kamilly Macedo,38,2632,BR,yahoo.com,0
+377,Srta. Daniela Freitas,26,3597,US,hotmail.com,0
+378,Eloah da Luz,45,2060,AR,gmail.com,0
+379,Stephany Carvalho,51,627,BR,hotmail.com,0
+380,Daniela Montenegro,63,924,BR,outlook.com,0
+381,Luiz Henrique Cirino,34,805,BR,outlook.com,0
+382,Sr. Theodoro Mendonça,58,1241,BR,gmail.com,0
+383,Dra. Evelyn Duarte,55,2379,BR,outlook.com,0
+384,Otávio Duarte,70,3539,BR,gmail.com,0
+385,Srta. Cecilia da Luz,59,864,US,yahoo.com,0
+386,Aylla Câmara,49,3642,BR,outlook.com,0
+387,Caio Silva,48,1004,US,yahoo.com,0
+388,Daniela Azevedo,47,299,US,hotmail.com,1
+389,Benjamin Dias,44,1984,BR,outlook.com,0
+390,Ester Brito,38,3529,US,outlook.com,1
+391,Dr. Liam Garcia,26,3116,BR,gmail.com,0
+392,Thales Ribeiro,33,1911,BR,yahoo.com,0
+393,Carlos Eduardo Rios,27,397,BR,yahoo.com,1
+394,Sr. Benjamin Jesus,33,3545,AR,outlook.com,0
+395,Ana Lívia Viana,30,3126,BR,yahoo.com,1
+396,Sra. Ana Beatriz Santos,37,2038,BR,yahoo.com,1
+397,Maria Cecília Peixoto,33,882,BR,gmail.com,0
+398,Isabel Viana,36,2028,BR,yahoo.com,0
+399,Eduarda Pimenta,52,34,AR,yahoo.com,0
+400,Nicole da Cruz,34,2980,BR,yahoo.com,0
+401,Leonardo Casa Grande,20,1641,BR,hotmail.com,0
+402,Mirella Ribeiro,53,1183,BR,yahoo.com,0
+403,João Vitor Melo,70,2553,US,gmail.com,0
+404,Dr. Henry Aragão,24,1614,BR,outlook.com,0
+405,Ana Beatriz Carvalho,66,591,BR,yahoo.com,0
+406,José Pedro Fernandes,20,160,BR,outlook.com,1
+407,Sr. Davi Lucca da Mata,51,1872,BR,hotmail.com,0
+408,Maya Barbosa,57,1305,BR,outlook.com,0
+409,Maria Laura Barros,50,3393,BR,yahoo.com,0
+410,Dr. Benicio da Rocha,48,3342,BR,outlook.com,0
+411,Leonardo Cardoso,44,2391,BR,gmail.com,1
+412,Luiza Martins,34,2686,US,hotmail.com,0
+413,Dra. Ana Luiza Barbosa,55,1968,BR,yahoo.com,0
+414,Ágatha Leão,70,2789,BR,gmail.com,0
+415,Diogo Santos,19,1807,BR,hotmail.com,1
+416,Ana Vitória Pimenta,62,836,BR,yahoo.com,0
+417,Benjamin Moreira,63,566,BR,outlook.com,1
+418,Dr. Renan Aparecida,51,1544,BR,hotmail.com,1
+419,Srta. Jade Barbosa,52,1403,BR,outlook.com,1
+420,Aylla Lima,30,1010,BR,outlook.com,0
+421,Lara Teixeira,37,3159,BR,hotmail.com,1
+422,Dra. Maria Clara Vasconcelos,38,1966,BR,outlook.com,0
+423,Luiz Henrique Pacheco,25,2349,US,yahoo.com,1
+424,Maria Sophia Casa Grande,70,1414,AR,hotmail.com,0
+425,Calebe da Rosa,20,1179,AR,gmail.com,0
+426,Hellena Farias,46,2687,BR,yahoo.com,0
+427,Sr. João Gabriel Castro,30,3392,BR,outlook.com,0
+428,Brenda Macedo,24,2522,US,hotmail.com,0
+429,Dra. Maria Laura Pires,21,2744,AR,hotmail.com,0
+430,Stephany Fogaça,21,411,BR,yahoo.com,0
+431,Isabelly da Costa,61,3158,BR,hotmail.com,1
+432,Sra. Lunna Martins,59,3608,AR,yahoo.com,0
+433,Cecília Santos,66,1177,BR,gmail.com,0
+434,Dr. Enzo Farias,59,2352,BR,gmail.com,0
+435,Sra. Ágatha Teixeira,44,3614,AR,gmail.com,1
+436,Joaquim Sampaio,68,2030,BR,outlook.com,0
+437,Jade Sá,18,1223,BR,gmail.com,0
+438,Sr. Pietro da Luz,36,1862,AR,yahoo.com,0
+439,Juan Almeida,50,1918,BR,gmail.com,0
+440,Dr. Rafael Nunes,28,2995,BR,outlook.com,0
+441,Cauã Rocha,18,3018,BR,outlook.com,0
+442,Isaque Rios,29,2503,AR,yahoo.com,1
+443,Olivia Jesus,50,1344,BR,gmail.com,0
+444,Otto Fonseca,26,1956,BR,hotmail.com,0
+445,Aylla Rios,34,1572,BR,outlook.com,0
+446,Davi Miguel Santos,37,2386,US,gmail.com,0
+447,Fernando Sá,59,1473,US,gmail.com,0
+448,Felipe Correia,47,1257,BR,outlook.com,0
+449,Laís Farias,58,1209,BR,hotmail.com,0
+450,Maria Julia Fogaça,26,1959,BR,outlook.com,1
+451,Catarina Monteiro,62,2250,AR,hotmail.com,0
+452,Benicio da Paz,61,3092,BR,gmail.com,1
+453,Ísis da Mota,51,2883,BR,gmail.com,0
+454,Catarina Cirino,53,2071,BR,hotmail.com,0
+455,Manuela da Cunha,38,3500,BR,gmail.com,0
+456,Sofia Vargas,63,2389,BR,yahoo.com,0
+457,Mateus Fonseca,47,541,BR,yahoo.com,0
+458,Pietro Silveira,53,1894,US,outlook.com,0
+459,Eloá Teixeira,43,1043,US,hotmail.com,0
+460,Maysa Lima,20,1736,BR,gmail.com,0
+461,Cecília da Paz,22,1934,BR,yahoo.com,0
+462,Ravy Vieira,67,555,US,yahoo.com,0
+463,Gabriel Rios,42,1838,AR,yahoo.com,1
+464,Isabella Rocha,23,2797,AR,hotmail.com,0
+465,Igor Vasconcelos,25,732,AR,yahoo.com,0
+466,Lucas Gabriel Freitas,64,913,AR,gmail.com,0
+467,Sarah Campos,47,2759,US,yahoo.com,1
+468,Liz Andrade,70,941,BR,outlook.com,0
+469,Renan Sampaio,35,773,AR,gmail.com,0
+470,Antonella Cassiano,69,2705,BR,gmail.com,0
+471,Rhavi da Mota,31,276,BR,gmail.com,1
+472,Luiz Miguel Sá,56,2753,US,gmail.com,0
+473,Rael Montenegro,65,182,BR,hotmail.com,0
+474,Melina Vasconcelos,66,3538,US,hotmail.com,0
+475,Ana Sophia Rodrigues,32,3342,AR,outlook.com,0
+476,João Pedro Pires,33,1237,AR,hotmail.com,1
+477,Jade Siqueira,37,1128,BR,hotmail.com,1
+478,Ryan Melo,53,2031,BR,outlook.com,1
+479,João Gabriel Cassiano,68,2149,BR,yahoo.com,1
+480,Luiza Cunha,27,1229,BR,yahoo.com,0
+481,Ian Vasconcelos,32,1232,AR,hotmail.com,1
+482,Olivia Brito,21,2304,BR,yahoo.com,0
+483,Olívia Pereira,42,995,BR,outlook.com,0
+484,Davi Miguel Nascimento,46,3470,BR,hotmail.com,0
+485,Luiz Otávio Vieira,35,1545,US,gmail.com,0
+486,Sabrina Leão,30,3296,US,hotmail.com,1
+487,Otávio das Neves,31,3562,AR,outlook.com,0
+488,Marcelo Dias,31,779,AR,gmail.com,1
+489,Mateus Leão,33,2850,BR,hotmail.com,1
+490,Nicole Freitas,33,2262,BR,outlook.com,1
+491,Sr. Benjamin Vargas,47,2186,BR,outlook.com,0
+492,Maria Liz Vieira,41,2101,AR,yahoo.com,0
+493,Arthur Gabriel Cardoso,69,2960,BR,outlook.com,0
+494,Rhavi Abreu,41,1282,BR,hotmail.com,0
+495,Mirella Monteiro,19,1069,BR,yahoo.com,0
+496,Dr. Benjamim Pacheco,27,804,BR,yahoo.com,0
+497,Henrique Carvalho,49,2256,BR,outlook.com,0
+498,Dr. Caleb Nunes,66,3366,BR,yahoo.com,1
+499,Thomas Nascimento,28,3002,US,hotmail.com,0
+500,Yago Carvalho,64,2239,BR,gmail.com,0
+501,Sophie Azevedo,22,3351,US,gmail.com,1
+502,Zoe Farias,26,3452,BR,gmail.com,0
+503,Camila Marques,18,896,BR,outlook.com,0
+504,Sra. Julia Nogueira,57,2613,US,yahoo.com,1
+505,João Pedro Cardoso,19,28,BR,yahoo.com,0
+506,Maria Júlia Aparecida,19,2169,US,outlook.com,0
+507,Léo Melo,50,3331,US,yahoo.com,0
+508,José Miguel Rezende,24,395,BR,hotmail.com,0
+509,Isabelly Nogueira,57,2157,BR,outlook.com,0
+510,Yago Garcia,68,1626,BR,yahoo.com,1
+511,Anna Liz Cassiano,54,997,AR,hotmail.com,0
+512,Sra. Alícia Melo,61,3392,AR,gmail.com,0
+513,Heloisa Abreu,43,1554,BR,yahoo.com,0
+514,Hadassa Ferreira,58,39,US,gmail.com,1
+515,Ana Júlia Costa,45,2642,US,gmail.com,0
+516,Enzo Gabriel Pacheco,32,866,AR,yahoo.com,0
+517,Juliana da Cunha,20,305,US,outlook.com,0
+518,Milena Vieira,29,3484,BR,hotmail.com,0
+519,Julia Rodrigues,66,3362,US,yahoo.com,0
+520,Juan Nunes,37,666,BR,yahoo.com,0
+521,Maria Freitas,42,3095,US,gmail.com,0
+522,Carlos Eduardo Araújo,21,401,BR,gmail.com,0
+523,Maria Fernanda Alves,56,3150,BR,yahoo.com,0
+524,Yago Pimenta,19,2598,BR,yahoo.com,1
+525,Brenda Farias,32,1458,BR,yahoo.com,1
+526,Isis Azevedo,29,2785,BR,yahoo.com,0
+527,Isabel Moura,67,2534,BR,hotmail.com,0
+528,Dante Vargas,23,1098,BR,hotmail.com,1
+529,Davi Silveira,38,1478,BR,gmail.com,0
+530,Sr. Valentim Silveira,46,1475,US,gmail.com,0
+531,Melissa Pastor,23,768,BR,yahoo.com,0
+532,Lívia Lima,19,368,BR,gmail.com,0
+533,Raul Aparecida,42,51,BR,yahoo.com,0
+534,Kamilly Nunes,64,2292,AR,hotmail.com,0
+535,Bianca Casa Grande,61,1560,BR,outlook.com,0
+536,Pedro Henrique Fogaça,35,2020,BR,hotmail.com,1
+537,Rodrigo Guerra,35,1725,BR,gmail.com,0
+538,Liz Martins,34,1011,US,yahoo.com,0
+539,Júlia Barbosa,47,439,BR,gmail.com,1
+540,Sra. Hellena Aragão,39,3448,BR,outlook.com,1
+541,Dra. Pietra Peixoto,39,1764,US,hotmail.com,0
+542,Gustavo Siqueira,38,2471,AR,hotmail.com,1
+543,Heloisa Machado,38,728,AR,outlook.com,0
+544,Dra. Maria Isis Gomes,65,2847,BR,hotmail.com,0
+545,Davi Lucca Mendes,42,1149,US,yahoo.com,0
+546,Gael Henrique da Cunha,25,2310,BR,hotmail.com,0
+547,Sra. Catarina Cassiano,64,1891,AR,hotmail.com,1
+548,Apollo Porto,69,1194,US,gmail.com,1
+549,Pedro Miguel Freitas,61,2046,BR,outlook.com,0
+550,João Lucas Rocha,34,2698,BR,yahoo.com,1
+551,Rodrigo Moura,22,1840,AR,yahoo.com,1
+552,Caleb Jesus,52,2076,AR,yahoo.com,0
+553,Kevin Campos,68,1473,US,gmail.com,0
+554,Dra. Maria Vitória Aparecida,67,1017,BR,outlook.com,0
+555,Elisa Ferreira,59,2510,BR,yahoo.com,0
+556,Dr. Rafael Freitas,68,1764,BR,gmail.com,0
+557,Bryan da Cruz,32,2092,US,hotmail.com,1
+558,Lorenzo das Neves,41,1603,BR,hotmail.com,0
+559,Rafaela Alves,19,1978,BR,yahoo.com,0
+560,Isabel Fonseca,25,3406,AR,hotmail.com,0
+561,Samuel Dias,37,1406,BR,hotmail.com,1
+562,Amanda Souza,40,1951,BR,yahoo.com,0
+563,Mirella Siqueira,22,1230,BR,gmail.com,0
+564,Raquel Nascimento,39,2655,BR,hotmail.com,0
+565,Sra. Ana Lívia Sampaio,51,715,BR,outlook.com,1
+566,Leandro Ferreira,47,950,US,hotmail.com,0
+567,Sr. Cauê Almeida,58,2693,BR,gmail.com,0
+568,Diogo Alves,46,2426,BR,gmail.com,0
+569,Dra. Melina Vasconcelos,31,1141,US,gmail.com,0
+570,Luiz Felipe Ramos,69,3572,BR,outlook.com,0
+571,Dr. Mathias da Rocha,30,1875,BR,yahoo.com,0
+572,Luísa Duarte,56,1592,BR,gmail.com,0
+573,Luiz Miguel Novaes,40,3464,BR,hotmail.com,0
+574,Ana Clara Araújo,57,2418,BR,hotmail.com,0
+575,Larissa da Rocha,25,978,BR,hotmail.com,0
+576,Sra. Maria Silva,62,580,BR,yahoo.com,0
+577,Zoe Costa,54,1572,BR,yahoo.com,0
+578,Ana Sophia Moraes,53,684,BR,hotmail.com,0
+579,Benicio Sales,38,3449,BR,gmail.com,0
+580,Aurora Moraes,18,1985,BR,yahoo.com,1
+581,Sr. Ravi Lucca das Neves,44,2805,BR,yahoo.com,1
+582,José da Mota,28,339,BR,hotmail.com,0
+583,Dr. Davi Silveira,20,1126,BR,outlook.com,0
+584,Rafaela Nunes,67,1874,BR,yahoo.com,0
+585,Danilo Ribeiro,54,468,BR,outlook.com,0
+586,Francisco Sousa,66,2945,BR,hotmail.com,1
+587,Sr. Lorenzo Teixeira,24,3015,US,hotmail.com,0
+588,Ana Fernandes,20,1843,BR,gmail.com,1
+589,Dr. Lucas Gabriel Silva,25,3177,US,hotmail.com,0
+590,Anna Liz Brito,63,2500,BR,hotmail.com,0
+591,Léo Cardoso,68,847,US,gmail.com,0
+592,Luiz Henrique Gomes,52,1152,BR,hotmail.com,0
+593,Emanuelly das Neves,63,1199,BR,outlook.com,0
+594,Ryan Mendonça,26,3073,US,gmail.com,0
+595,Benício Rodrigues,59,520,US,hotmail.com,0
+596,Maitê Azevedo,27,2914,BR,hotmail.com,1
+597,Davi Santos,49,583,BR,outlook.com,1
+598,Maria Eduarda Martins,42,1852,BR,gmail.com,1
+599,Sr. Marcos Vinicius Silva,50,3072,BR,outlook.com,1
+600,Levi da Costa,49,1341,BR,gmail.com,1
+601,Nina Monteiro,58,2721,US,gmail.com,1
+602,Natália Cavalcanti,31,1760,US,yahoo.com,0
+603,Ravi Peixoto,38,3393,BR,hotmail.com,1
+604,Dra. Hadassa Castro,68,1408,AR,gmail.com,0
+605,Enzo Monteiro,24,2565,US,yahoo.com,0
+606,Gabriela Ramos,25,3513,BR,yahoo.com,0
+607,Vitória Castro,45,829,AR,hotmail.com,0
+608,Leandro Pacheco,28,3582,AR,outlook.com,0
+609,Apollo Souza,59,1477,BR,outlook.com,0
+610,Pedro Henrique da Costa,21,1624,BR,hotmail.com,1
+611,Jade Caldeira,59,374,US,gmail.com,0
+612,Gabrielly Teixeira,48,320,BR,hotmail.com,1
+613,Ester Pacheco,18,34,US,gmail.com,1
+614,Ana Clara da Costa,62,542,BR,hotmail.com,1
+615,José Miguel Peixoto,23,2994,US,gmail.com,0
+616,Luan Oliveira,41,3609,BR,yahoo.com,0
+617,Maria Liz Barbosa,59,2774,BR,gmail.com,0
+618,Maria Clara Lima,46,1439,US,hotmail.com,1
+619,Felipe Alves,57,2813,BR,hotmail.com,0
+620,Matteo Cavalcanti,24,574,US,yahoo.com,0
+621,Maria Júlia Gomes,45,1289,US,hotmail.com,0
+622,Vitória Moreira,59,346,BR,outlook.com,0
+623,Otávio Fonseca,60,3588,BR,hotmail.com,1
+624,Mathias Fernandes,36,2647,BR,hotmail.com,1
+625,Srta. Laís Carvalho,42,462,BR,gmail.com,0
+626,Olivia Ribeiro,41,1297,BR,yahoo.com,0
+627,Breno da Mota,52,2798,BR,yahoo.com,0
+628,Liz Carvalho,19,2406,BR,outlook.com,0
+629,Laís Porto,20,248,AR,yahoo.com,0
+630,Vitória Moraes,58,2919,BR,yahoo.com,1
+631,Joana Silveira,62,1648,BR,hotmail.com,0
+632,Eduarda Marques,23,1270,BR,hotmail.com,0
+633,Dr. Brayan Casa Grande,52,1339,BR,gmail.com,0
+634,Sr. Carlos Eduardo Castro,62,1792,US,hotmail.com,0
+635,Bento Andrade,33,354,AR,gmail.com,1
+636,Dra. Larissa Nogueira,57,2494,BR,hotmail.com,0
+637,Daniela Albuquerque,18,2900,BR,gmail.com,0
+638,Ana Liz Araújo,49,1421,BR,outlook.com,0
+639,Carlos Eduardo Vargas,41,520,US,outlook.com,0
+640,Lavínia Barbosa,67,121,BR,yahoo.com,0
+641,Sophia Abreu,51,262,BR,gmail.com,1
+642,Camila Rios,47,2093,BR,yahoo.com,0
+643,Levi Peixoto,41,645,BR,gmail.com,0
+644,Stephany Cunha,32,3035,BR,gmail.com,0
+645,Bernardo da Conceição,33,189,BR,yahoo.com,0
+646,Stella Pimenta,29,3513,BR,yahoo.com,0
+647,João Guilherme Nogueira,38,1017,BR,outlook.com,0
+648,Asafe Pastor,70,320,BR,gmail.com,0
+649,Dr. Pedro Martins,29,915,US,gmail.com,1
+650,Enrico Costa,22,3593,BR,outlook.com,0
+651,Henry Santos,38,354,BR,gmail.com,0
+652,Vitória Castro,30,1195,BR,outlook.com,0
+653,Ana Carolina Melo,47,1509,BR,yahoo.com,0
+654,Isabel Abreu,64,2239,US,hotmail.com,0
+655,João Pedro Sales,18,1680,BR,outlook.com,0
+656,Yago da Rocha,39,6,US,yahoo.com,0
+657,Paulo Jesus,24,841,BR,hotmail.com,1
+658,Isabelly Monteiro,49,246,AR,hotmail.com,0
+659,Arthur Gabriel Oliveira,23,180,AR,yahoo.com,0
+660,Maria Cecília Pastor,47,3064,BR,gmail.com,0
+661,João Castro,58,3359,BR,gmail.com,1
+662,Dra. Sabrina Ribeiro,60,536,BR,outlook.com,0
+663,Bryan Rios,69,1610,US,outlook.com,0
+664,Luana Moreira,46,1114,BR,hotmail.com,0
+665,Melina Nascimento,67,3155,BR,hotmail.com,0
+666,Fernando Fonseca,28,1842,BR,yahoo.com,0
+667,Brenda Santos,52,1468,AR,hotmail.com,1
+668,Rodrigo da Rosa,37,1898,BR,gmail.com,0
+669,Noah Duarte,28,3308,US,gmail.com,0
+670,Carlos Eduardo Casa Grande,38,608,BR,hotmail.com,0
+671,Maria Júlia Vargas,43,2104,BR,outlook.com,0
+672,Anna Liz Lopes,70,713,BR,yahoo.com,1
+673,Maria Eduarda Rezende,53,3065,BR,gmail.com,1
+674,Brenda Cavalcante,24,3293,US,gmail.com,0
+675,Julia Peixoto,21,3402,US,hotmail.com,0
+676,Alexandre Leão,30,3374,BR,gmail.com,0
+677,Sara Leão,70,308,BR,gmail.com,0
+678,Dra. Luana Brito,59,1817,US,gmail.com,0
+679,Ana Beatriz Aragão,25,175,AR,gmail.com,0
+680,André Vieira,54,1775,US,yahoo.com,1
+681,Dr. Lorenzo da Rosa,19,1568,US,hotmail.com,0
+682,Maria da Cunha,31,767,BR,yahoo.com,0
+683,Kamilly Moraes,20,2516,BR,hotmail.com,0
+684,Srta. Lunna Aragão,49,1688,AR,yahoo.com,0
+685,Isabel das Neves,23,1146,BR,yahoo.com,0
+686,Lavínia Vargas,59,3624,US,hotmail.com,0
+687,Carolina Caldeira,42,3203,US,yahoo.com,1
+688,Sr. Liam da Cruz,40,2317,BR,yahoo.com,0
+689,Nina Castro,29,107,BR,hotmail.com,0
+690,Arthur Aparecida,69,3189,BR,yahoo.com,0
+691,Valentina Cunha,67,2393,AR,hotmail.com,0
+692,Sra. Maria Laura Abreu,33,2691,BR,gmail.com,0
+693,Isaac Borges,54,3468,AR,yahoo.com,0
+694,Olívia Lopes,29,722,BR,outlook.com,0
+695,Manuella Pinto,55,116,US,outlook.com,0
+696,Ravi Lucca Cardoso,54,772,AR,yahoo.com,0
+697,Joaquim Alves,29,2009,BR,gmail.com,0
+698,Pedro Henrique Jesus,56,897,BR,yahoo.com,0
+699,Sra. Maria Clara Vieira,39,2516,BR,hotmail.com,0
+700,Joaquim Vargas,63,727,AR,outlook.com,0
+701,Dra. Luísa Brito,19,606,BR,hotmail.com,0
+702,Maria Eduarda Casa Grande,51,3526,BR,gmail.com,0
+703,Enrico Costa,63,2713,BR,gmail.com,0
+704,Ana Luiza Cunha,37,1322,BR,hotmail.com,1
+705,Maria Sophia Sá,68,2619,AR,outlook.com,0
+706,Kevin Correia,63,2302,US,outlook.com,0
+707,Isaac da Costa,60,2413,US,yahoo.com,0
+708,Maria Isis Gomes,64,2821,BR,hotmail.com,0
+709,Heloísa Viana,62,2347,BR,gmail.com,0
+710,Srta. Daniela Gomes,56,1304,AR,hotmail.com,0
+711,Sr. Gustavo Henrique Santos,49,577,BR,gmail.com,0
+712,Dr. Davi Luiz Barros,40,1309,BR,gmail.com,0
+713,Benjamin Monteiro,46,47,BR,hotmail.com,0
+714,Letícia da Rosa,40,1052,US,gmail.com,0
+715,Luiz Gustavo Vieira,42,1795,US,hotmail.com,1
+716,Camila Pastor,49,3612,BR,yahoo.com,0
+717,Pedro Lucas Pastor,48,3231,AR,hotmail.com,0
+718,Yasmin Nascimento,46,302,US,gmail.com,0
+719,Ryan Jesus,19,1306,BR,gmail.com,0
+720,Otto da Rocha,39,697,AR,hotmail.com,0
+721,Catarina Costa,53,382,BR,yahoo.com,0
+722,Rafael Pimenta,45,2678,BR,yahoo.com,0
+723,Luiz Henrique Nogueira,21,415,BR,hotmail.com,1
+724,Srta. Ana Clara das Neves,62,2270,US,outlook.com,0
+725,Kaique da Conceição,37,973,BR,yahoo.com,1
+726,Arthur Miguel Machado,27,224,BR,yahoo.com,0
+727,Levi Câmara,36,3375,BR,yahoo.com,0
+728,Maria da Cruz,24,106,BR,outlook.com,0
+729,Luigi Camargo,48,3457,BR,yahoo.com,1
+730,Nina Fogaça,49,2708,BR,yahoo.com,0
+731,Maria Sousa,41,3627,BR,hotmail.com,1
+732,João Felipe Alves,20,1079,BR,outlook.com,0
+733,Arthur Miguel Siqueira,35,2312,BR,gmail.com,0
+734,Gabriel Sampaio,60,1409,US,yahoo.com,0
+735,Manuella Fogaça,53,250,AR,yahoo.com,1
+736,Olívia Carvalho,54,3612,BR,outlook.com,0
+737,Hadassa Vieira,43,3498,US,hotmail.com,0
+738,Júlia Moreira,66,1840,BR,hotmail.com,0
+739,Luigi Barros,69,790,BR,yahoo.com,0
+740,Otávio Fonseca,61,1784,BR,hotmail.com,0
+741,Clara Correia,38,2979,AR,gmail.com,0
+742,José da Costa,42,2279,BR,outlook.com,0
+743,Sofia Barros,51,1877,AR,gmail.com,1
+744,Heloísa Sousa,25,1698,BR,gmail.com,0
+745,Pietra Jesus,54,3194,BR,outlook.com,0
+746,Laís Cunha,44,1082,BR,yahoo.com,1
+747,Kevin Ferreira,20,706,BR,hotmail.com,1
+748,Yasmin Sá,20,1622,AR,outlook.com,0
+749,Yasmin Ferreira,21,3055,BR,outlook.com,0
+750,Dante da Conceição,19,1384,US,outlook.com,0
+751,Nina Sales,35,3453,BR,gmail.com,0
+752,Yan Pimenta,26,1231,AR,yahoo.com,0
+753,Marcos Vinicius Marques,35,2986,BR,gmail.com,0
+754,Allana Peixoto,46,866,AR,yahoo.com,1
+755,Leandro Caldeira,66,2116,AR,gmail.com,0
+756,Gabrielly Azevedo,22,1275,US,yahoo.com,0
+757,Sra. Ana Julia das Neves,67,3487,BR,gmail.com,0
+758,Cauê Barbosa,30,3585,US,gmail.com,0
+759,Ryan Aparecida,20,1870,BR,outlook.com,0
+760,Maria Luiza Fernandes,35,1509,US,yahoo.com,0
+761,Kamilly Silva,61,126,BR,yahoo.com,1
+762,José Miguel Cassiano,29,3566,BR,outlook.com,0
+763,Sr. Calebe da Rosa,28,3432,AR,gmail.com,0
+764,Srta. Daniela Cardoso,19,1584,BR,hotmail.com,0
+765,Eduarda Pimenta,59,923,US,outlook.com,1
+766,Ana Lívia Garcia,50,83,AR,gmail.com,1
+767,Ryan Jesus,26,2652,BR,gmail.com,0
+768,Kamilly Cavalcante,34,2492,US,outlook.com,0
+769,Maria Fernanda Cardoso,45,1543,AR,yahoo.com,0
+770,Pedro Rodrigues,31,1912,BR,yahoo.com,0
+771,Felipe Câmara,18,2096,AR,outlook.com,0
+772,Joana Correia,37,2804,BR,gmail.com,0
+773,Isabel Vasconcelos,35,2624,BR,outlook.com,0
+774,Lucas Gabriel da Paz,59,2913,AR,outlook.com,0
+775,Liz da Paz,27,2119,US,gmail.com,1
+776,Otto Farias,60,1310,US,gmail.com,1
+777,Laís Ramos,36,1063,AR,yahoo.com,1
+778,Bruno Rezende,65,145,BR,hotmail.com,0
+779,Heloísa Teixeira,64,2922,BR,yahoo.com,0
+780,Vitor Hugo Siqueira,50,1230,AR,hotmail.com,0
+781,Maria Clara Sousa,24,1929,BR,outlook.com,0
+782,Sr. Luiz Gustavo Freitas,61,1375,BR,hotmail.com,0
+783,Maria Cecília Araújo,32,3049,AR,yahoo.com,0
+784,Marcos Vinicius Barbosa,41,1068,BR,yahoo.com,0
+785,Marcela Rodrigues,48,220,AR,gmail.com,1
+786,Sra. Maria Helena Sales,30,2050,BR,yahoo.com,0
+787,Augusto Farias,44,222,AR,hotmail.com,0
+788,Melina Sampaio,30,1404,BR,yahoo.com,0
+789,Matheus Casa Grande,38,3533,US,gmail.com,1
+790,Gabriela Barbosa,39,2585,AR,outlook.com,0
+791,Sra. Maria Isis Costela,18,1852,BR,hotmail.com,0
+792,Olivia Aparecida,49,3217,US,gmail.com,0
+793,Maria Eduarda Pereira,57,1777,BR,yahoo.com,1
+794,Isabella Sampaio,48,1571,BR,hotmail.com,0
+795,Mariah da Cunha,18,1320,US,hotmail.com,0
+796,Vinicius Santos,61,17,BR,hotmail.com,0
+797,Dra. Luana Ribeiro,62,3593,BR,hotmail.com,0
+798,Maitê Peixoto,42,2062,BR,hotmail.com,0
+799,Sr. Liam Garcia,70,188,BR,outlook.com,1
+800,Vicente Monteiro,64,2132,BR,outlook.com,1
+801,Thales da Conceição,61,549,BR,yahoo.com,0
+802,Sr. Davi Lucca Guerra,66,772,BR,yahoo.com,0
+803,João Felipe Cavalcanti,32,919,US,hotmail.com,0
+804,Ana Vitória Dias,64,90,BR,hotmail.com,0
+805,Eloá Lopes,41,2913,BR,gmail.com,1
+806,Dra. Maria Rodrigues,58,1048,US,gmail.com,0
+807,Ravi Lucca da Conceição,60,443,BR,gmail.com,0
+808,Davi Lucca Sousa,62,475,BR,yahoo.com,0
+809,Alana Nascimento,53,1036,BR,hotmail.com,0
+810,Ana Sophia Silveira,62,2809,BR,outlook.com,1
+811,Melissa Casa Grande,60,414,BR,outlook.com,0
+812,Davi Miguel Cardoso,44,3403,AR,gmail.com,0
+813,Vitor Hugo Castro,25,3215,BR,hotmail.com,0
+814,Sra. Maria Helena Freitas,67,1078,US,hotmail.com,0
+815,Rafael Rodrigues,63,1679,BR,gmail.com,1
+816,Lavínia Câmara,31,2819,AR,outlook.com,0
+817,Bento Pimenta,18,53,US,gmail.com,1
+818,Diogo Castro,27,369,US,gmail.com,0
+819,Dr. Nathan Sá,34,2640,BR,outlook.com,0
+820,Sra. Olivia da Cunha,47,206,BR,hotmail.com,0
+821,Antony Campos,36,1476,US,outlook.com,1
+822,Yuri Ferreira,65,475,BR,gmail.com,0
+823,Valentim da Costa,26,2718,BR,outlook.com,0
+824,Renan Campos,46,2547,BR,gmail.com,0
+825,Melina Costela,70,1404,BR,yahoo.com,1
+826,Dra. Pietra da Cunha,47,1114,AR,yahoo.com,1
+827,Cauã Brito,59,3630,US,gmail.com,0
+828,Luiz Otávio Peixoto,62,2976,BR,hotmail.com,0
+829,Mirella Barbosa,44,2420,BR,yahoo.com,0
+830,Juan Freitas,57,1556,US,gmail.com,0
+831,Josué Lima,48,2000,BR,yahoo.com,1
+832,Isabella Casa Grande,20,260,BR,outlook.com,0
+833,Srta. Luana Rios,63,3557,US,hotmail.com,0
+834,Henry Gabriel Sá,51,2143,US,gmail.com,1
+835,Olivia Nascimento,60,2977,BR,outlook.com,1
+836,Vicente Macedo,27,3437,US,gmail.com,0
+837,Maria Helena Pacheco,59,643,BR,yahoo.com,1
+838,Eduardo Machado,28,307,US,outlook.com,0
+839,Isaac Albuquerque,39,1140,BR,hotmail.com,1
+840,Mariana Mendes,43,3347,BR,yahoo.com,1
+841,Lavínia Cassiano,69,2348,BR,yahoo.com,1
+842,Sara da Rosa,38,487,AR,gmail.com,0
+843,Davi Lucca Porto,43,1689,BR,gmail.com,0
+844,Emanuel da Cruz,68,2475,AR,outlook.com,0
+845,Ravi Lucca Lima,59,2751,BR,outlook.com,0
+846,Luiza Cirino,70,223,US,yahoo.com,0
+847,Asafe da Conceição,53,3144,BR,yahoo.com,0
+848,Sabrina Cirino,63,1854,BR,hotmail.com,0
+849,José Pedro Souza,39,1455,US,outlook.com,0
+850,Bruna Silveira,62,436,BR,hotmail.com,1
+851,Olívia Novais,26,3367,US,yahoo.com,0
+852,Letícia Fogaça,34,2503,BR,gmail.com,1
+853,Maria Julia Sousa,31,1873,US,hotmail.com,0
+854,Theo Pastor,24,3102,BR,gmail.com,1
+855,Lorenzo Santos,47,2698,BR,hotmail.com,1
+856,Anthony Pimenta,18,2173,US,yahoo.com,1
+857,Bryan Silveira,50,3200,AR,hotmail.com,0
+858,Antonella Ribeiro,64,3340,BR,yahoo.com,0
+859,Brayan Moreira,50,3611,BR,hotmail.com,0
+860,Benjamin Novaes,43,1405,AR,yahoo.com,0
+861,Stephany Casa Grande,26,1691,BR,outlook.com,0
+862,Esther Mendonça,63,3019,AR,hotmail.com,0
+863,Rael Martins,31,2557,US,outlook.com,0
+864,Juan Aparecida,63,2663,AR,hotmail.com,0
+865,Hellena Moraes,63,473,US,yahoo.com,1
+866,Dra. Isabella Rezende,61,3064,AR,outlook.com,1
+867,Sofia Farias,69,53,BR,gmail.com,1
+868,Luan Vasconcelos,27,218,US,hotmail.com,0
+869,Benicio Fernandes,66,3218,BR,outlook.com,0
+870,Sra. Antonella Peixoto,27,3439,BR,outlook.com,0
+871,Juan Monteiro,66,2217,BR,yahoo.com,0
+872,Rafael Marques,57,3556,US,hotmail.com,1
+873,Theo da Rosa,33,2093,US,outlook.com,0
+874,João Lucas Melo,42,1588,BR,outlook.com,0
+875,Srta. Ayla Fogaça,18,3047,BR,yahoo.com,0
+876,Sr. Renan Rodrigues,58,2887,US,outlook.com,0
+877,Luana Pires,67,2970,AR,outlook.com,1
+878,Isabel Novaes,29,2797,BR,hotmail.com,0
+879,Sabrina Nunes,42,167,BR,outlook.com,0
+880,Maria Flor Melo,28,2393,AR,gmail.com,0
+881,Larissa Sá,47,2907,AR,gmail.com,0
+882,Lorenzo da Cunha,38,2445,BR,outlook.com,1
+883,Sr. Luiz Felipe Oliveira,68,2346,BR,gmail.com,0
+884,Maria Eduarda Rezende,51,901,AR,gmail.com,0
+885,Vitor Hugo Martins,44,2225,BR,gmail.com,0
+886,Liam Sampaio,32,3619,BR,outlook.com,0
+887,Dr. João Felipe Rios,41,1203,BR,yahoo.com,0
+888,Davi Lucas Rios,25,2740,BR,hotmail.com,0
+889,Julia Moraes,20,2796,AR,yahoo.com,0
+890,Emilly Vargas,42,1051,BR,outlook.com,0
+891,Maysa Porto,51,3368,US,yahoo.com,1
+892,Juliana Aparecida,20,1215,AR,hotmail.com,0
+893,Lunna Abreu,50,338,AR,hotmail.com,0
+894,Sra. Ana Julia Siqueira,58,269,BR,hotmail.com,1
+895,Liz Pereira,24,843,BR,yahoo.com,0
+896,Nicolas Barros,65,2811,BR,yahoo.com,0
+897,Isabelly da Mata,20,359,BR,hotmail.com,0
+898,Breno Souza,53,289,BR,hotmail.com,0
+899,Davi Marques,44,1590,BR,yahoo.com,1
+900,Luiz Miguel da Rosa,38,70,BR,gmail.com,0
+901,Paulo Abreu,59,2951,BR,gmail.com,0
+902,Lunna da Cruz,40,2060,BR,outlook.com,0
+903,Bruna Camargo,36,3135,AR,yahoo.com,1
+904,Diogo Farias,70,2707,BR,hotmail.com,0
+905,Francisco da Luz,26,3059,BR,outlook.com,0
+906,Ágatha Gonçalves,37,2775,AR,outlook.com,0
+907,Alana Araújo,53,3584,BR,gmail.com,0
+908,Lívia Machado,18,2346,BR,gmail.com,0
+909,Luara Pimenta,31,3066,US,outlook.com,0
+910,Emilly Costa,44,2646,AR,hotmail.com,0
+911,Theo Dias,29,905,BR,outlook.com,0
+912,Renan Gomes,25,743,US,gmail.com,1
+913,Emanuelly Freitas,59,2252,BR,gmail.com,0
+914,Ravi Lucca Camargo,24,809,US,yahoo.com,0
+915,Dr. Benjamim Melo,40,526,US,hotmail.com,0
+916,Rael Pimenta,36,2538,BR,hotmail.com,0
+917,Evelyn da Paz,49,1846,BR,outlook.com,0
+918,Ana Vitória Cirino,54,2322,BR,outlook.com,1
+919,Dante Câmara,28,20,BR,hotmail.com,1
+920,João Miguel Mendonça,35,3442,BR,outlook.com,1
+921,João Lucas Sá,47,1825,BR,outlook.com,1
+922,Marcelo Pacheco,53,446,BR,gmail.com,0
+923,Bella Mendes,70,574,AR,hotmail.com,0
+924,Dr. Diogo Pinto,64,3631,BR,gmail.com,0
+925,Sr. Diogo Alves,50,2588,BR,yahoo.com,0
+926,Yago Macedo,20,2260,BR,yahoo.com,0
+927,Rael da Mota,41,1608,BR,outlook.com,0
+928,Ravy Correia,47,2053,BR,yahoo.com,0
+929,Luana da Mata,50,44,BR,hotmail.com,0
+930,Enzo Monteiro,46,653,BR,hotmail.com,1
+931,Dante Aparecida,40,166,BR,yahoo.com,0
+932,Ana Beatriz Nogueira,22,1083,BR,gmail.com,0
+933,Antonella da Costa,51,3242,BR,yahoo.com,1
+934,Davi Lucca Barbosa,20,164,AR,outlook.com,0
+935,Maria Cecília Fonseca,63,2136,BR,outlook.com,0
+936,Heloisa Vasconcelos,55,2230,BR,yahoo.com,1
+937,Rebeca Câmara,41,2408,BR,gmail.com,0
+938,Yasmin Jesus,42,913,BR,outlook.com,0
+939,Sra. Lunna Nunes,49,3247,BR,gmail.com,0
+940,Ana Clara Borges,46,679,BR,outlook.com,0
+941,Cauã Farias,27,766,BR,gmail.com,0
+942,Ryan Borges,44,3323,BR,gmail.com,1
+943,Ana Laura Ribeiro,61,1962,BR,hotmail.com,1
+944,Vitor Melo,19,999,BR,hotmail.com,0
+945,Ana Beatriz Caldeira,58,2100,BR,hotmail.com,0
+946,Emanuel Araújo,28,1058,AR,yahoo.com,0
+947,Luiz Miguel Oliveira,64,2982,BR,outlook.com,0
+948,Júlia Casa Grande,31,1840,BR,yahoo.com,1
+949,Cecília Ramos,28,899,US,hotmail.com,0
+950,Antony Moura,57,2702,BR,hotmail.com,0
+951,Vinícius Azevedo,47,2444,BR,hotmail.com,1
+952,Leandro Jesus,42,542,BR,hotmail.com,1
+953,Dr. Benjamim Sá,70,613,BR,hotmail.com,1
+954,Dr. Nicolas Azevedo,57,2457,BR,gmail.com,0
+955,Sra. Clara Rezende,48,2701,BR,gmail.com,1
+956,Sr. Augusto Moura,51,1724,BR,gmail.com,1
+957,Henry Gabriel Costa,32,3287,BR,yahoo.com,0
+958,Maria Cecília Martins,55,3296,US,gmail.com,1
+959,Amanda Ferreira,26,1043,BR,hotmail.com,0
+960,João Guilherme Lopes,36,2451,AR,yahoo.com,0
+961,Beatriz Siqueira,30,23,US,gmail.com,0
+962,Isabel Casa Grande,51,30,BR,hotmail.com,0
+963,Ágatha da Rosa,44,1484,BR,yahoo.com,0
+964,Diego Vargas,34,3502,BR,outlook.com,0
+965,Isis Novaes,61,1628,US,yahoo.com,1
+966,Rafael Marques,29,1517,BR,yahoo.com,0
+967,Sabrina Camargo,37,2367,BR,yahoo.com,0
+968,Igor Brito,60,488,US,yahoo.com,0
+969,Liz Brito,24,879,BR,outlook.com,0
+970,Murilo Gonçalves,28,1594,AR,gmail.com,0
+971,Ana Laura Ribeiro,70,596,BR,yahoo.com,0
+972,José Pedro Rios,22,1078,BR,gmail.com,0
+973,Pedro Miguel Azevedo,64,1575,AR,yahoo.com,0
+974,Henry Peixoto,63,2448,BR,hotmail.com,1
+975,Yuri Castro,46,44,BR,outlook.com,0
+976,Ian Moreira,20,3212,BR,hotmail.com,0
+977,Sr. Isaque da Paz,61,148,BR,gmail.com,0
+978,Carlos Eduardo Teixeira,23,1131,US,outlook.com,1
+979,Allana Guerra,43,2401,BR,gmail.com,0
+980,Natália da Mota,23,2252,BR,outlook.com,0
+981,Marcelo Fogaça,70,1133,BR,hotmail.com,1
+982,Cauã Nascimento,43,2355,BR,hotmail.com,1
+983,Sr. José Miguel da Cunha,50,437,BR,outlook.com,0
+984,Sra. Liz Monteiro,25,3289,BR,outlook.com,0
+985,Lucas Gabriel Sousa,62,1814,AR,yahoo.com,0
+986,Dr. Lucca Rezende,66,1392,AR,yahoo.com,1
+987,Sophia Cavalcanti,55,3531,BR,gmail.com,0
+988,Ana Clara Leão,22,1568,BR,hotmail.com,0
+989,Maria Flor Brito,69,1294,BR,outlook.com,0
+990,Gabriel Caldeira,62,3409,BR,outlook.com,0
+991,Sara Pimenta,43,2760,US,outlook.com,0
+992,Larissa Silva,53,732,BR,outlook.com,0
+993,Zoe Nunes,54,1103,BR,hotmail.com,1
+994,Luan Sousa,65,818,BR,hotmail.com,0
+995,Srta. Bianca Viana,31,939,BR,hotmail.com,0
+996,Ana Julia Borges,27,3191,BR,gmail.com,1
+997,Fernanda Fernandes,57,28,US,gmail.com,1
+998,Luiz Gustavo Moraes,41,2543,BR,outlook.com,1
+999,Asafe Ribeiro,29,3131,AR,outlook.com,1
+1000,Maria Liz Moura,32,3073,BR,gmail.com,1

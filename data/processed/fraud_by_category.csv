@@ -1,0 +1,9 @@
+merchant_category,total_transactions,total_frauds,total_amount,fraud_rate_pct
+digital_services,1853,548,186634.01,29.57
+electronics,1847,559,185237.79,30.27
+fashion,1934,415,196445.33,21.46
+food,1848,362,186006.9,19.59
+gaming,1891,550,184436.94,29.09
+marketplace,1912,383,194058.13,20.03
+pharmacy,1845,363,186556.99,19.67
+travel,1870,405,186414.43,21.66

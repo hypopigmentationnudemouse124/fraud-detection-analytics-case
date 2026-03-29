@@ -1,0 +1,6 @@
+metric,value
+total_transactions,15000.0
+total_fraud_cases,3585.0
+fraud_rate_pct,23.9
+total_amount,1505790.52
+fraud_amount,366267.93
